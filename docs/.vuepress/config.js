@@ -501,7 +501,7 @@ module.exports = {
         //页脚信息，支持HTML，这是一个数组
         footer: [
             "Copyright © by qsyyke All Rights Reserved.",
-            "<a target='_blank' href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=53060202000142' style='display:inline-block;text-decoration:none;height:20px;line-height:20px;'><img src='' style='float:left;'/><p style='float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px;'>滇公网安备 53060202000142号</p></a>",
+            // "<a target='_blank' href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=53060202000142' style='display:inline-block;text-decoration:none;height:20px;line-height:20px;'><img src='' style='float:left;'/><p style='float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px;'>滇公网安备 53060202000142号</p></a>",
         ],
 
         //是否显示页脚，控制全局
@@ -517,7 +517,7 @@ module.exports = {
         startRunTime: "5/6/2022 12:22:00",
 
         //网站运行时间前缀
-        prefixRuntime: "小破站已运行",
+        prefixRuntime: "小站已運行",
 
         //公告，是一个数组，支持图片，HTML
         message: message,
@@ -737,7 +737,7 @@ module.exports = {
             bubbleAlpha: 0.6,
 
             //透明度变化速度，越接近于0越好
-            alphaChangeSpeed: 0.00001,
+            alphaChangeSpeed: 0.001,
 
             //气泡大小，推荐0到1之间的值
             size: 0.4,
@@ -789,7 +789,7 @@ module.exports = {
         homeTopText: '置顶',
 
         //侧边栏一句话描述
-        sidebarDesc: '外號冬眠，一個遊戲宅,目前是一名邁入大學的學生,正在學習C++及JS123',
+        sidebarDesc: '外號冬眠，一個遊戲宅,目前是一名邁入大學的學生,正在學習C++及JS',
 
         /*
         * 下面的是v1.13.0版本的配置
