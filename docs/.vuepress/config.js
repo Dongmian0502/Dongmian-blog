@@ -149,7 +149,7 @@ module.exports = {
         [
             "link",
             {
-                href: "/avatar.png",
+                href: "/avatar.jpg",
                 rel: "icon",
             },
         ],
@@ -178,7 +178,7 @@ module.exports = {
     title: "I do not follow,i lives is always all you want",
 
     //设置站点语言
-    lang: 'zh-CN',
+    lang: 'zh-tw,zh-en',
 
     //设置运行npm run dev的端口
     port: 8080,
@@ -514,7 +514,7 @@ module.exports = {
         isShowRunTime: true,
 
         //网站开始时间，请按照以下格式进行
-        startRunTime: "8/7/2021 12:22:00",
+        startRunTime: "6/5/2022 12:22:00",
 
         //网站运行时间前缀
         prefixRuntime: "小破站已运行",
@@ -789,7 +789,7 @@ module.exports = {
         homeTopText: '置顶',
 
         //侧边栏一句话描述
-        sidebarDesc: '喜欢动漫，Coding目前是一名大三学生,CS专业,坐标西南边陲',
+        sidebarDesc: '外號冬眠，一個遊戲宅,目前是一名邁入大學的學生,正在學習C++及JS',
 
         /*
         * 下面的是v1.13.0版本的配置
