@@ -61,7 +61,7 @@ module.exports = {
         * 请配置一下excludes，否则在时间轴那里，会出现非文件页面链接
         * */
         [
-            "archive",
+            "vuepress-plugin-archive",
             {
                 excludes: ['/footer.html','/404.html','/about/','/mood/','/link/','/tag/','/photo/'],
                 noTitle: '暂时没有标题配置'
