@@ -238,10 +238,10 @@ module.exports = {
         showFont: "程",
 
         //首页中间hero图片地址
-        heroImg: '/avatar.jpg',
+        heroImg: '/topLogo.JPG',
 
         //logo图片地址
-        logo: "/avatar.png",
+        logo: "./dist/topLogo.JPG",
 
         //文章懒加载图片 仅限文章，首页文章占位图片并不是这个
         lazyLoadingImg: "/ljz.gif",
