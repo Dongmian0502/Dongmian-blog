@@ -110,13 +110,13 @@ module.exports = {
             "bubble",
             {
                 //气泡数量 推荐0(不包括)到1之前的小数，
-                bubbleNumber: 0.14,
+                bubbleNumber: 0.66,
 
                 //气泡透明度 0到1之间的小数
                 bubbleAlpha: 0.6,
 
                 //透明度变化速度，越接近于0越好
-                alphaChangeSpeed: 0.00001,
+                alphaChangeSpeed: 0.001,
 
                 //气泡大小，推荐0到1之间的值
                 size: 0.4,
@@ -436,7 +436,7 @@ module.exports = {
             //         },
             //     ],
             // },
-            
+
             // {
             //     title: "关于主题",
             //     describe: [
