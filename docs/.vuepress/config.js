@@ -238,10 +238,10 @@ module.exports = {
         showFont: "程",
 
         //首页中间hero图片地址
-        heroImg: '/topLogo.JPG',
+        heroImg: 'docs\.vuepress\dist\topLogo.jpg',
 
         //logo图片地址
-        logo: "./dist/topLogo.JPG",
+        logo: "docs\.vuepress\dist\topLogo.jpg",
 
         //文章懒加载图片 仅限文章，首页文章占位图片并不是这个
         lazyLoadingImg: "/ljz.gif",
