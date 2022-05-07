@@ -45,7 +45,7 @@ module.exports = {
         * 这里是配置说说插件，使用https://aurora.xcye.xyz/plugin/coze/
         * */
         [
-            "coze",
+            "vuepress-plugin-coze",
             {
                 appId: '2A2Dyd2Affrnldhwftlaaa',//你需要在leancloud中创建自己的appId，请参照文档https://aurora.xcye.xyz/plugin/coze/
                 appKey: 'qHYTbb91iOPLelyC9aaa',
