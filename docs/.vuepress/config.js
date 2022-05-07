@@ -514,7 +514,7 @@ module.exports = {
         isShowRunTime: true,
 
         //网站开始时间，请按照以下格式进行
-        startRunTime: "6/5/2022 12:22:00",
+        startRunTime: "5/6/2022 12:22:00",
 
         //网站运行时间前缀
         prefixRuntime: "小破站已运行",
@@ -789,7 +789,7 @@ module.exports = {
         homeTopText: '置顶',
 
         //侧边栏一句话描述
-        sidebarDesc: '外號冬眠，一個遊戲宅,目前是一名即將邁入大學的學生,正在學習C++及JS',
+        sidebarDesc: '外號冬眠，一個遊戲宅,目前是一名邁入大學的學生,正在學習C++及JS123',
 
         /*
         * 下面的是v1.13.0版本的配置
