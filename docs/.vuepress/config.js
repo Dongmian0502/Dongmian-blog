@@ -116,7 +116,7 @@ module.exports = {
                 bubbleAlpha: 0.66,
 
                 //透明度变化速度，越接近于0越好
-                alphaChangeSpeed: 0.001,
+                alphaChangeSpeed: 0.00001,
 
                 //气泡大小，推荐0到1之间的值
                 size: 0.4,
