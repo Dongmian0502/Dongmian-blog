@@ -175,7 +175,7 @@ module.exports = {
     theme: 'aurora',
 
     //站点title
-    title: "I do not follow,i lives is always all you want",
+    title: "冬眠的blog-努力讓自己過得更好",
 
     //设置站点语言
     lang: 'zh-tw,zh-en',
