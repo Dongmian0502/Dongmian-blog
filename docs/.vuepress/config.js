@@ -500,7 +500,7 @@ module.exports = {
 
         //页脚信息，支持HTML，这是一个数组
         footer: [
-            "Copyright © by qsyyke All Rights Reserved.",prefixRunTime= "5/6/2022 12:22:00"
+            "Copyright © by qsyyke All Rights Reserved.",
             // "<a target='_blank' href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=53060202000142' style='display:inline-block;text-decoration:none;height:20px;line-height:20px;'><img src='' style='float:left;'/><p style='float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px;'>滇公网安备 53060202000142号</p></a>",
         ],
 
