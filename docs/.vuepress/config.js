@@ -71,7 +71,7 @@ module.exports = {
         * 音乐插件，使用：https://aurora.xcye.xyz/plugin/player/
         * */
         [
-            "player",
+            "vuepress-plugin-player",
             {
                 disableSpace: false,
                 //网易云单个歌单id
@@ -107,13 +107,13 @@ module.exports = {
         * 气泡插件，使用：https://aurora.xcye.xyz/plugin/bubble/
         * */
         [
-            "bubble",
+            "vuepress-plugin-bubble",
             {
                 //气泡数量 推荐0(不包括)到1之前的小数，
-                bubbleNumber: 0.66,
+                bubbleNumber: 0.14,
 
                 //气泡透明度 0到1之间的小数
-                bubbleAlpha: 0.6,
+                bubbleAlpha: 0.66,
 
                 //透明度变化速度，越接近于0越好
                 alphaChangeSpeed: 0.001,
