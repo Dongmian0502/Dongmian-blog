@@ -508,7 +508,7 @@ module.exports = {
         isShowFooter: true,
 
         //是否显示主题信息在页脚，为false关闭
-        isShowThemeCopyright: true,
+        isShowThemeCopyright: false,
 
         //是否展示运行时间
         isShowRunTime: true,
