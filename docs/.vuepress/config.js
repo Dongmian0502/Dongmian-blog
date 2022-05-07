@@ -293,8 +293,8 @@ module.exports = {
                     "非常懒",
                     "正在追的動漫有《百妖譜》,《全職高手》,《SPYxFAMILY》...",
                     "喜歡看輕小說，喜歡的作者是--啞鳴，最喜歡的輕小說《前進吧!高捷少女》",
-                    "",
-                    "<div flex:right>往左滑還有-----></div>"
+                    "</br></br>",
+                    "往左滑還有----->"
                 ],
                 tag: [
                     "coding",
@@ -320,18 +320,18 @@ module.exports = {
                     "考駕照",
                     "豐富自己的見聞",
                 ],
-                tag: ["大家加油呀`Σ(￣□￣||)` ..."],
+                tag: ["大家一起努力"],
                 showTag: true,
             },
             {
                 bar: false,
-                title: "未来规划",
-                describe: ["后端工程师", "赚money"],
-                tag: ["忘记过去，展望未来"],
+                title: "未來規劃",
+                describe: ["成為後端工程師", "赚第一桶金"],
+                tag: ["忘掉過去，展望未來"],
                 showTag: true,
             },
             {
-                bar: true,
+                bar: false,
                 title: "技  能",
                 describe: [
                     {
@@ -384,7 +384,7 @@ module.exports = {
 
             {
                 showTag: false,
-                bar: true,
+                bar: false,
                 title: "掌握框架",
                 describe: [
                     {
@@ -414,7 +414,7 @@ module.exports = {
                 ],
             },
             {
-                bar: true,
+                bar: false,
                 showTag: false,
                 title: "掌握技能",
                 describe: [
