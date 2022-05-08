@@ -40,26 +40,26 @@ module.exports = {
         {
             aHref: "https://stackoverflow.com/",
             isHome: true,
-            show: true,
+            show: false,
             symbol: '#icon-stackoverflow',
             sidebar: true
         },
         {
             aHref: "https://space.bilibili.com/483962286",
             isHome: true,
-            show: true,
+            show: false,
             sidebar: true,
             symbol: '#icon-bilibili-1'
         },
         {
             aHref: "https://music.163.com/#/user/home?id=1411050784",
             isHome: true,
-            show: true,
+            show: false,
             symbol: '#icon-wangyiyunyinle',
             sidebar: true
         },
         {
-            aHref: "mailto:2291308094@qq.com",
+            aHref: "mailto:sio0607sio8@gmail.com",
             isHome: true,
             show: true,
             sidebar: true,

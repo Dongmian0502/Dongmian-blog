@@ -3,7 +3,7 @@ module.exports = {
     navbar: [
         {
             //设置标签
-            text: '快速开始',
+            text: '开始',
             //设置此标签的链接
             link: '/readme/',
             //设置此导航栏的图标，请注意，导航图标只对一级标题有用，

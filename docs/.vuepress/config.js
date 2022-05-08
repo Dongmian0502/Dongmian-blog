@@ -199,7 +199,7 @@ module.exports = {
         darkMode: false,
 
         //项目地址，会在顶部导航栏和侧边栏显示GitHub的地址
-        repo: "https://github.com/qsyyke/vuepress-theme-aurora",
+        repo: "https://github.com/ora",
 
         //自定义GitHub的图标
         repoIconClass: 'aurora-navbar-github',
@@ -218,7 +218,7 @@ module.exports = {
         docsBranch: 'main',
 
         //顶部导航栏，你repo地址的超链接文本
-        repoLabel: "Aurora-theme",
+        repoLabel: "Aurora-tsdfsdfheme",
 
         //是否启用文章在线编辑，默认开启，会在每篇文章的底部，创建一个链接，指向该md在GitHub中的edit地址
         editLink: true,

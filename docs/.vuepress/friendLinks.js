@@ -44,13 +44,13 @@ module.exports = {
             links: [
                 {
                     //网站标题
-                    title: "Aurora",
+                    title: "BLOG-WE",
 
                     //站点链接
-                    url: "https://aurora.xcye.xyz",
+                    url: "https://blogwe.com/",
 
                     //站点logo
-                    logo: "/avatar.jpg",
+                    logo: "/fl-we.ico",
 
                     //站点描述
                     describe: "人生若只是初见,何事秋风悲画扇",
