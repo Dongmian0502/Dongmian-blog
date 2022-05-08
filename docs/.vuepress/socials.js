@@ -36,7 +36,7 @@ module.exports = {
             isHome: true,
             show: true,
             sidebar: true,
-            symbol: '#icon-github-fill'
+            // symbol: '#icon-github-fill'
         },
         {
             aHref: "https://stackoverflow.com/",
