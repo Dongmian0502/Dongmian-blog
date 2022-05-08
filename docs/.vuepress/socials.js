@@ -32,11 +32,11 @@ module.exports = {
         },
         {
             aHref: "https://www.facebook.com/profile.php?id=100010915951504",
-            showImgSrc: "docs\.vuepress\public\fb-icon.png",
+            showImgSrc: "/fb-icon.png",
             isHome: true,
             show: true,
             sidebar: true,
-            symbol: 'docs\.vuepress\public\fb-icon.png'
+            symbol: '#icon-fb'
         },
         {
             aHref: "https://stackoverflow.com/",
