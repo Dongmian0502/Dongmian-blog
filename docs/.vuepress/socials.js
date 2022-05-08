@@ -31,7 +31,8 @@ module.exports = {
             sidebar: true
         },
         {
-            aHref: "https://github.com/qsyyke/",
+            aHref: "https://www.facebook.com/profile.php?id=100010915951504",
+            showImgSrc: "/fb-icon.png",
             isHome: true,
             show: true,
             sidebar: true,
