@@ -36,7 +36,7 @@ module.exports = {
             isHome: true,
             show: true,
             sidebar: true,
-            symbol: '&#xe600;'
+            symbol: '#icon-facebookfacebook51'
         },
         {
             aHref: "https://stackoverflow.com/",
