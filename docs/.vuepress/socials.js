@@ -22,7 +22,7 @@ module.exports = {
             // showImgSrc: "/aurora/wechat.jpg",
         },
         {
-            aHref: "javascript:;",
+            aHref: "https://scontent.ftpe9-1.fna.fbcdn.net/v/t1.15752-9/279780478_1210189106052934_7551750453872184881_n.jpg?_nc_cat=100&ccb=1-6&_nc_sid=ae9488&_nc_ohc=lZkVG4r1quQAX8UDYxO&_nc_ht=scontent.ftpe9-1.fna&oh=03_AVKS6DvGkZcCRFKHvvfheSN6_2_-vEc2l2TCekhO2nNOng&oe=629DCA10",
             //imgSrc: /assets/img/ico/wechat.svg,
             showImgSrc: "/wechat.jpg",
             isHome: true,
