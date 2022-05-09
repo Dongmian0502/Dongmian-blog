@@ -7,7 +7,7 @@ module.exports = {
             // imgSrc: "https://ooszy.cco.vin/img/ico/qq.svg", 从v1.3.2开始久移除次配置，以前版本用于社交ico图标配置
 
             //true为在首页显示，反之
-            isHome: true,
+            isHome: false,
 
             //是否显示此社交信息,如果为false，尽管isHome=true，sidebar=true，也不会显示
             show: true,
@@ -27,7 +27,7 @@ module.exports = {
             showImgSrc: "/wechat.jpg",
             isHome: true,
             show: true,
-            symbol: '#icon-weixin',
+            symbol: '#icon-wechat',
             sidebar: true
         },
         {
