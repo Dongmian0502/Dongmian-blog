@@ -142,7 +142,7 @@ module.exports = {
         [
             "script",
             {
-                src: "/js/iconfont.js",
+                src: "//at.alicdn.com/t/font_3385288_h3916ze0cj9.js",
             },
         ],
         //设置站点icon

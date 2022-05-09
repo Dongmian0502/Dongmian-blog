@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vuepress dev docs --temp .temp",
+    "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "watch": "webpack --watch --mode development",
     "start": "nodemon --ext md,vue,js --watch .vuepress --watch . --exec vuepress dev"

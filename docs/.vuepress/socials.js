@@ -16,7 +16,7 @@ module.exports = {
             sidebar: true,
 
             //使用阿里图标 使用的是阿里图标库，我也挑选部分图标，请进入http://ico.cco.vin/theme查看
-            symbol: '#icon-qq',
+            symbol: '#icon-facebookfacebook51',
 
             //鼠标移入此图标时，显示的图片，适用于微信等通过二维码添加好友
             // showImgSrc: "/aurora/wechat.jpg",
