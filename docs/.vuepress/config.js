@@ -142,7 +142,7 @@ module.exports = {
         [
             "script",
             {
-                src: "//at.alicdn.com/t/font_3385288_fxjbjkbej9n.js",
+                src: "//at.alicdn.com/t/font_3385288_m9qtc45zfn.js",
             },
         ],
         //设置站点icon
@@ -606,7 +606,7 @@ module.exports = {
         //自定义顶部图片
         customTopImg: {
             //是否启用定制顶部图片，控制全局，如果关闭，那么将使用随机图片，随机图片接口可以自己设置
-            custom: false,
+            custom: true,
 
             //文章顶部图片，数组，每次从数组中随机选择一张
             page: [
@@ -728,10 +728,10 @@ module.exports = {
 
         //顶部图片的气泡控制
         bubble: {
-            show: true,
+            show: false,
 
             //气泡数量 推荐0(不包括)到1之前的小数，
-            bubbleNumber: 0.14,
+            bubbleNumber: 0.34,
 
             //气泡透明度 0到1之间的小数
             bubbleAlpha: 0.6,

@@ -25,17 +25,17 @@ module.exports = {
             links: [
                 {
                     //网站标题
-                    title: "Aurora",
+                    title: "花有重开日，人无再少年",
 
                     //站点链接
-                    url: "https://aurora.xcye.xyz",
+                    url: "https://www.missyouc.cn/#/friends",
 
                     //站点logo
-                    logo: "/avatar.jpg",
+                    logo: "/miss-icon.jpg",
 
                     //站点描述
-                    describe: "人生若只是初见,何事秋风悲画扇",
-                    cover: '/friendimg/myself.png'
+                    describe: "",
+                    cover: '/friendimg/,miss.jpg'
                 },
             ]
         },
