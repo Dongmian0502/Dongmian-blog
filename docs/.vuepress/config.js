@@ -29,6 +29,26 @@ module.exports = {
     * 插件plugins是一个数组，官方介绍: https://v2.vuepress.vuejs.org/zh/guide/plugin.html
     * */
     plugins: [
+        ['vuepress-plugin-live2d-plus', {
+            enable: true,
+            model: {
+                url: 'https://cdn.jsdelivr.net/gh/qsyyke/vscode-live2d-models/model-library/girls-frontline/HK416-2/destroy/model.json'
+            },
+            display: {
+                position: 'right',
+                width: '385px',
+                height: '480px',
+                xOffset: '3%',
+                yOffset: '3%'
+            },
+            mobile: {
+                show: true
+            },
+            react: {
+                opacity: 0.9
+            }
+        }
+        ],
         "@vuepress/plugin-search",
         {
             locales: {
@@ -80,7 +100,7 @@ module.exports = {
                 playlist: '7082462754',
                 showPlaylist: false,
                 //是否禁用网易云音乐，如果你选择禁用，那么就将使用本地的歌曲，请传入链接
-                disabledNetEaseMusic: false,
+                disabledNetEaseMusic: true,
 
                 //请求接口的baseURL
                 serverUrl: 'https://netease-cloud-music-api-teal-psi.vercel.app/',
@@ -90,13 +110,14 @@ module.exports = {
                     coverUrl: '/avatar.jpg',
                     songs: [
                         {
-                            path: '请自己传入mp3或者其他格式的音乐地址',
-                            songName: '12',
-                            cover: 'https://p1.music.126.net/Rg1x9LeUacIDqtvUzL35Cw==/109951163688517312.jpg'
+                            path: '/mp3/嗜黑的鯨.mp3',
+                            songName: '嗜黑的鯨-羅一四',
+                            cover: 'mp3/嗜黑的鯨.jpg'
                         },
                         {
-                            path: 'song/aa.mp3',//此地址是一个演示
-                            songName: '演示'
+                            path: '/mp3/雲煙成雨.mp3',
+                            songName: '雲煙成雨-房東的貓',
+                            cover: 'mp3/雲煙成雨.jpg'
                         }
                     ]
                 }

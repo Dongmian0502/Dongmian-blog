@@ -35,7 +35,7 @@ module.exports = {
 
                     //站点描述
                     describe: "",
-                    cover: '/friendimg/,miss.jpg'
+                    cover: '/friendimg/miss.jpg'
                 },
             ]
         },

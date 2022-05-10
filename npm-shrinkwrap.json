@@ -20,6 +20,7 @@
         "@vuepress/plugin-search": "2.0.0-beta.33",
         "nodemon": "^2.0.16",
         "vuepress": "2.0.0-beta.33",
+        "vuepress-plugin-live2d-plus": "^0.1.0",
         "vuepress-webpack": "2.0.0-beta.33",
         "webpack-cli": "^4.9.2"
       }
@@ -7829,6 +7830,18 @@
         "turndown": "^7.1.1"
       }
     },
+    "node_modules/vuepress-plugin-live2d-plus": {
+      "version": "0.1.0",
+      "resolved": "https://registry.npmmirror.com/vuepress-plugin-live2d-plus/-/vuepress-plugin-live2d-plus-0.1.0.tgz",
+      "integrity": "sha512-IemLqWyzEahA+YX9cUOy1W3qWMQ8dYpGtdFcgvJrwbvdFIBrwKeqsDdiO4tSzoiKCY9/geFYnbnI8zzAac4LrQ==",
+      "dev": true,
+      "dependencies": {
+        "vuepress-vite": "^2.0.0-beta.27"
+      },
+      "engines": {
+        "node": ">=14.0.0"
+      }
+    },
     "node_modules/vuepress-plugin-player": {
       "version": "1.1.7",
       "resolved": "https://registry.npmjs.org/vuepress-plugin-player/-/vuepress-plugin-player-1.1.7.tgz",
@@ -14589,6 +14602,15 @@
         "leancloud-storage": "^4.12.0",
         "swiper": "^8.0.6",
         "turndown": "^7.1.1"
+      }
+    },
+    "vuepress-plugin-live2d-plus": {
+      "version": "0.1.0",
+      "resolved": "https://registry.npmmirror.com/vuepress-plugin-live2d-plus/-/vuepress-plugin-live2d-plus-0.1.0.tgz",
+      "integrity": "sha512-IemLqWyzEahA+YX9cUOy1W3qWMQ8dYpGtdFcgvJrwbvdFIBrwKeqsDdiO4tSzoiKCY9/geFYnbnI8zzAac4LrQ==",
+      "dev": true,
+      "requires": {
+        "vuepress-vite": "^2.0.0-beta.27"
       }
     },
     "vuepress-plugin-player": {
