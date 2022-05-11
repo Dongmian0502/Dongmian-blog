@@ -21,11 +21,11 @@
             <div>{{$store.state.pageNum}}</div>
           </div>
           <div class="sidebar-page-common">
-            <div>标签</div>
+            <div>標籤</div>
             <div>{{$store.state.tagArr.length}}</div>
           </div>
           <div class="sidebar-page-common">
-            <div>类别</div>
+            <div>類别</div>
             <div>{{$store.state.categories.length}}</div>
           </div>
         </div>
@@ -134,13 +134,13 @@
       <div :id="customId" v-if="showTagCloud" :class="{'sidebar-single-enter-animate': showEnterAnimate}" class="sidebar-single-common">
         <div v-if="!isMobileSidebar" id="home-tag-sidebar" class="sidebar-page">
           <span class="aurora-iconfont-common aurora-sidebar-tag"></span>
-          <span>标签</span>
+          <span>標籤</span>
         </div>
 
         <div v-if="isMobileSidebar" class="change-page">
           <div class="catalog-page change-page-common">
             <span class="home-menu-ico" style="--homeIcoCode: '\e7b5'"></span>
-            <span>标签</span>
+            <span>標籤</span>
           </div>
           <div class="latest-page change-page-common">
             <span></span>
