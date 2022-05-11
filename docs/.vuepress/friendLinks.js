@@ -6,16 +6,16 @@ module.exports = {
             links: [
                 {
                     //网站标题
-                    title: "Aurora",
+                    title: "今天沒空哦",
 
                     //站点链接
-                    url: "https://aurora.xcye.xyz",
+                    url: "https://zysg.xyz/",
 
                     //站点logo
-                    logo: "/avatar.jpg",
+                    logo: "/td-icon.jpg",
 
                     //站点描述
-                    describe: "人生若只是初见,何事秋风悲画扇",
+                    describe: "",
                     cover: '/friendimg/myself.png'
                 }
             ]

@@ -8,10 +8,10 @@ module.exports = {
         ],
 
         //是否在文章页面显示赞赏 默认显示
-        articlePage: true,
+        articlePage: false,
 
         //是否在关于页面显示 默认显示
-        aboutPage: true,
+        aboutPage: false,
 
         //显示在赞赏页面的信息
         donateProduct: [

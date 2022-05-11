@@ -199,7 +199,7 @@ module.exports = {
     title: "冬眠的blog-努力讓自己過得更好",
 
     //设置站点语言
-    lang: 'zh-tw,zh-en',
+    lang: 'zh-en,zh-tw',
 
     //设置运行npm run dev的端口
     port: 8080,
@@ -286,7 +286,7 @@ module.exports = {
         headTitle: "this is headTitle",
 
         //站点描述
-        description: "暫無",
+        description: "外號冬眠，一個遊戲宅,目前是一名邁入大學的學生,正在學習C++及JS",
 
         //站点关键词，在后续版本中，还需优化 请使用英文状态下的逗号','隔开
         keyword: "vuepress主题,vuepress theme,生活琐事,二次元博客,简约博客,博客主题,静态主题",
@@ -550,7 +550,7 @@ module.exports = {
         recommendNoTitle: "`╮(￣▽￣)╭`",
 
         //tag页，没有标题时，代替文字 默认是下面这个
-        tagNoTitle: "暂时还没有标题哟",
+        tagNoTitle: "暫時還沒有內容",
 
         //首页中间框的话语
         mood: "青衫烟雨客",
@@ -596,10 +596,10 @@ module.exports = {
         //海报分享配置
         poster: {
             //博客描述
-            description: "vuepress-theme-Aurora是一款简洁，美观，功能强大的静态主题",
+            description: "",
 
             //作者
-            author: "qsyyke",
+            author: "",
 
             //博客前缀
             preBlog: "Aurora",
@@ -800,7 +800,7 @@ module.exports = {
         /*
         * 一下是v1.11.1版本增加的配置
         * */
-        afDianUrl: 'https://afdian.net/@qsyyke',//你的爱发电个人页面地址
+        afDianUrl: '',//你的爱发电个人页面地址
 
         /*
         * 下面这些是v1.12.0版本新增的配置项

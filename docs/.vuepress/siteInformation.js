@@ -11,7 +11,7 @@ module.exports = {
         logo: "/logo.jpg",
 
         //自己站点描述
-        describe: "vuepress-theme-Aurora是一款简洁，美观，功能强大的静态主题",
+        describe: "外號冬眠，一個遊戲宅,目前是一名邁入大學的學生,正在學習C++及JS",
         cover: '/my-cover.png',
 
         //自己的头像
