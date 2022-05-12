@@ -164,6 +164,7 @@ module.exports = {
             "script",
             {
                 src: "//at.alicdn.com/t/font_3385288_m9qtc45zfn.js",
+                src:'https://cdn.jsdelivr.net/gh/Dongmian0502/live2d-widget@latest/autoload.js',
             },
         ],
         //设置站点icon
@@ -180,6 +181,14 @@ module.exports = {
                 rel: 'stylesheet',
                 type: 'text/css',
                 href: '//at.alicdn.com/t/font_2932340_r7zitafg82.css'
+            }
+        ],
+        [
+            "link",
+            {
+                rel: 'stylesheet',
+                type: 'text/css',
+                href:"https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/css/all.min.css"
             }
         ],
         /*[
