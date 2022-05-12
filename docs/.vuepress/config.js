@@ -164,6 +164,9 @@ module.exports = {
             "script",
             {
                 src: "//at.alicdn.com/t/font_3385288_m9qtc45zfn.js",
+            },
+            "script",
+            {
                 src:"https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js",
             },
         ],
